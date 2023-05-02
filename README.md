@@ -1,6 +1,6 @@
 # Blackjack
 
-A simple game of blackjack recreated on a WPF application.
+A simple game of blackjack recreated on a WPF application. Please wait until all cards have been distributed before pressing the buttons.
 
 ## System Info
 
